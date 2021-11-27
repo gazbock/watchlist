@@ -5,6 +5,10 @@
 ### Series
 * [Le Bureau des Légendes](https://www.imdb.com/title/tt4063800/)
 
+### Movies
+* https://de.m.wikipedia.org/wiki/Zeit_der_Kannibalen
+* https://www.amazon.de/Hitler-Aufstieg-B%C3%B6sen-Teil-1/dp/B07L76J2MT/ref=nodl_
+
 ## Reading
 ### Books
 * [Poor Economics](https://economics.mit.edu/faculty/eduflo/pooreconomics)
