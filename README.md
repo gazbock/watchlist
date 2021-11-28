@@ -12,6 +12,9 @@
 ### Doku
 * [Karpaten - Das Paradies der Aussteiger](https://www.ardmediathek.de/video/mdr-dok/karpaten-das-paradies-der-aussteiger/mdr-fernsehen/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9jMmQ5YjU5OS1mNjRiLTQyMTYtYmUzNi01MzgwMTMwOGU2NWI/)
 
+### Learning
+* [![MDP Course JuliaAcademy](https://i.ytimg.com/vi/uHEjez97BvE/maxresdefault.jpg?v=6147e7ae)](https://www.youtube.com/watch?v=uHEjez97BvE&t=2909)
+
 ## Reading
 ### Books
 * [Poor Economics](https://economics.mit.edu/faculty/eduflo/pooreconomics)
