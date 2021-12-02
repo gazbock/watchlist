@@ -11,6 +11,7 @@
 
 ### Doku
 * [Karpaten - Das Paradies der Aussteiger](https://www.ardmediathek.de/video/mdr-dok/karpaten-das-paradies-der-aussteiger/mdr-fernsehen/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9jMmQ5YjU5OS1mNjRiLTQyMTYtYmUzNi01MzgwMTMwOGU2NWI/)
+* [Shoah](https://de.m.wikipedia.org/wiki/Shoah_(Film))
 
 ## Reading
 ### Books
